@@ -1,9 +1,15 @@
 <div align="center">
   
-<h1>
-  <img src="./LOGO/KALuxCreative.png" alt="Logo" width="45" style="vertical-align: middle;">
-  KALuxCreative
-</h1>
+<table cellpadding="0" cellspacing="0" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="./LOGO/Logo.png" alt="KALuxCreative Logo" width="80">
+    </td>
+    <td style="border: none;">
+      <h1>&nbsp;KALuxCreative</h1>
+    </td>
+  </tr>
+</table>
   
 <img src="https://komarev.com/ghpvc/?username=KALuxCreative&label=PROFILE%20VIEWS&color=blue" alt="Profile Views">
 
