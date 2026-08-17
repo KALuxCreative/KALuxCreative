@@ -1,7 +1,10 @@
 <div align="center">
-
-# KALuxCreative
-
+  
+<h1>
+  <img src="./LOGO/KALuxCreative.png" alt="Logo" width="45" style="vertical-align: middle;">
+  KALuxCreative
+</h1>
+  
 <img src="https://komarev.com/ghpvc/?username=KALuxCreative&label=PROFILE%20VIEWS&color=blue" alt="Profile Views">
 
 </div>
