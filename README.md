@@ -11,7 +11,7 @@
   </tr>
 </table>
   
-<img src="https://komarev.com/ghpvc/?username=KALuxCreative&label=PROFILE%20VIEWS&color=blue" alt="Profile Views">
+![](https://komarev.com/ghpvc/?username=KALuxCreative&label=PROFILE+VIEWS)
 
 </div>
 
