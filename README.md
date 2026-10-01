@@ -11,7 +11,11 @@
   </tr>
 </table>
   
-<img src="https://komarev.com/ghpvc/?username=KALuxCreative&label=Profile%20Views&color=0e75b6&style=flat">
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=KALuxCreative"
+  />
+</p>
 
 </div>
 
